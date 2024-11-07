@@ -9,6 +9,12 @@ let number = [5, 10, 15, 20, 25];
 numbers.push(30, 35, 40, 45, 50);
 console.log(numbers);
 
+numbers.pop();
+numbers.pop(); 
+numbers.pop();
+console.log(numbers);
+
+
 
 
 
