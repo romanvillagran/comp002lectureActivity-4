@@ -15,6 +15,7 @@ numbers.pop();
 console.log(numbers);
 
 
-
+let myString = "Hello, world!"
+console.log(myString.length);
 
 
